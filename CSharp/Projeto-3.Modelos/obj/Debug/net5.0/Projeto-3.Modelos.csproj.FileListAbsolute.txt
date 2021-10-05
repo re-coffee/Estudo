@@ -1,0 +1,12 @@
+D:\Estudo\CSharp\Projeto-3.Modelos\bin\Debug\net5.0\Projeto-3.Modelos.deps.json
+D:\Estudo\CSharp\Projeto-3.Modelos\bin\Debug\net5.0\Projeto-3.Modelos.dll
+D:\Estudo\CSharp\Projeto-3.Modelos\bin\Debug\net5.0\ref\Projeto-3.Modelos.dll
+D:\Estudo\CSharp\Projeto-3.Modelos\bin\Debug\net5.0\Projeto-3.Modelos.pdb
+D:\Estudo\CSharp\Projeto-3.Modelos\obj\Debug\net5.0\Projeto-3.Modelos.csproj.AssemblyReference.cache
+D:\Estudo\CSharp\Projeto-3.Modelos\obj\Debug\net5.0\Projeto-3.Modelos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudo\CSharp\Projeto-3.Modelos\obj\Debug\net5.0\Projeto-3.Modelos.AssemblyInfoInputs.cache
+D:\Estudo\CSharp\Projeto-3.Modelos\obj\Debug\net5.0\Projeto-3.Modelos.AssemblyInfo.cs
+D:\Estudo\CSharp\Projeto-3.Modelos\obj\Debug\net5.0\Projeto-3.Modelos.csproj.CoreCompileInputs.cache
+D:\Estudo\CSharp\Projeto-3.Modelos\obj\Debug\net5.0\Projeto-3.Modelos.dll
+D:\Estudo\CSharp\Projeto-3.Modelos\obj\Debug\net5.0\ref\Projeto-3.Modelos.dll
+D:\Estudo\CSharp\Projeto-3.Modelos\obj\Debug\net5.0\Projeto-3.Modelos.pdb
